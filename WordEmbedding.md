@@ -57,7 +57,7 @@
 
 ## 분산표현(Distributed representation)
 
-분산 표현은 기본적으로 **분포 가설(distributional hypothesis)**이라는 가정 하에 만들어진 표현 방법.
+분산 표현은 기본적으로 **분포 가설**(distributional hypothesis)이라는 가정 하에 만들어진 표현 방법.
 
 여기서 분포 가설은 '**비슷한 위치에서 등장하는 단어들은 비슷한 의미를 갖는다**' 라는 가정이다.
 
